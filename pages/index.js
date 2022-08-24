@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Site em construção" />
         <p className="description">
-          Volte em breve
+          Volte amanhã!
         </p>
       </main>
 
